@@ -17,9 +17,8 @@ Hệ thống kết hợp sức mạnh kiến trúc thị giác máy tính tiên 
 Giảng viên hướng dẫn: TS. Trần Thanh Huân
 
 Sinh viên triển khai:
-
-Hồ Hữu Hoàng (Mã SV: 2024606561)
-Vũ Thị Hương (Mã SV: 2024609007)
-Nguyễn Phùng Hải Lý (Mã SV: 2024607888)
-Lê Xuân Trường (Mã SV: 2024608925)
-Trịnh Minh Tiến (Mã SV: 2024607881)
+  - Hồ Hữu Hoàng (Mã SV: 2024606561)
+  - Vũ Thị Hương (Mã SV: 2024609007)
+  - Nguyễn Phùng Hải Lý (Mã SV: 2024607888)
+  - Lê Xuân Trường (Mã SV: 2024608925)
+  - Trịnh Minh Tiến (Mã SV: 2024607881)
